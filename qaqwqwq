@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>我的自我介绍</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    p {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>自我介绍</h1>
+  <p>你好，我叫[你的姓名]，很高兴在这里向大家介绍一下自己。</p>
+
+  <h2>个人信息</h2>
+  <ul>
+    <li><strong>姓名：</strong>[你的姓名]</li>
+    <li><strong>年龄：</strong>[你的年龄]</li>
+    <li><strong>职业：</strong>[你的职业]</li>
+    <li><strong>所在地：</strong>[你的所在地]</li>
+  </ul>
+
+  <h2>教育背景</h2>
+  <ul>
+    <li>[你的学历] - [你的专业] - [毕业院校]</li>
+  </ul>
+
+  <h2>技能</h2>
+  <ul>
+    <li>技能1</li>
+    <li>技能2</li>
+    <li>技能3</li>
+  </ul>
+
+  <h2>兴趣爱好</h2>
+  <ul>
+    <li>爱好1</li>
+    <li>爱好2</li>
+    <li>爱好3</li>
+  </ul>
+
+  <h2>联系方式</h2>
+  <ul>
+    <li><strong>邮箱：</strong>[你的邮箱]</li>
+    <li><strong>手机：</strong>[你的手机号码]</li>
+    <li><strong>个人网站：</strong><a href="[你的个人网站链接]">[你的个人网站链接]</a></li>
+    <li><strong>社交媒体：</strong><a href="[你的社交媒体链接]">[你的社交媒体链接]</a></li>
+  </ul>
+</body>
+</html>
